@@ -20,6 +20,8 @@ Contributions are welcome! If you have ideas for improvements, feel free to subm
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+For all credits, [Ishan Bhardwaj](https://www.linkedin.com/in/ishanbh/)
 ```
 
-This simplified readme focuses on the practical aspects of the project, providing a quick guide for users interested in exploring and using the time series forecasting models. It omits references to the research paper or in-depth study details.
